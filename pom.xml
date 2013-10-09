@@ -114,7 +114,7 @@ under the License.
   </mailingLists>
 
   <prerequisites>
-    <maven>3.1.0</maven>
+    <maven>3.1.1</maven>
   </prerequisites>
 
   <modules>
